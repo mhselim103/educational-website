@@ -14,14 +14,15 @@ const Home = () => {
     return (
         <div>
             <Header/>
-            <section className="bg-light">
-                <div className="container my-5">
-                    <div className="d-flex justify-content-between mx-3">
+            <div className="container bg-light my-5">
+                
+                    <div className="d-flex justify-content-between">
                         <div>
-                            <h1>Our Courses</h1>
+                            <h1 className="text-primary">Our Courses</h1>
                         </div>
                         <div>
-                            <Button variant="primary" className="rounded">See All</Button>
+                        <Button variant="primary" className="rounded">
+                            See All</Button>
                         </div>
                     </div>
                     <Row xs={1} md={2} className="g-4">
@@ -32,8 +33,8 @@ const Home = () => {
                             ></Courses>)
                         }
                     </Row>
-                </div>
-            </section>
+             
+            </div>
             <Footer></Footer>
         </div>
     );

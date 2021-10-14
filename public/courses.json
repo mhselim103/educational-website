@@ -30,5 +30,53 @@
         "enrolled": 3500,
         "id": 787945467768,
         "price": 180
+    },
+    {
+        "img": "https://www.datocms-assets.com/14946/1597658448-ux-ui.png?auto=format",
+        "title": "Ui Ux Crash Course",
+        "ratings": 4.7,
+        "enrolled": 500,
+        "id": 265732415446,
+        "price": 1540
+    },
+    {
+        "img": "https://prostackacademy.com/wp-content/uploads/2021/01/python-fs-website-home.jpeg",
+        "title":"Full stack web course",
+        "ratings": 4.5,
+        "enrolled": 1500,
+        "id": 78796594768,
+        "price": 2300
+    },
+    {
+        "img":"https://s.w.org/about/images/logos/wordpress-logo-stacked-rgb.png" ,
+        "title": "Learn Wordpress",
+        "ratings": 4.9,
+        "enrolled": 3500,
+        "id": 34543852452,
+        "price": 350
+    },
+    {
+        "img": "https://petapixel.com/assets/uploads/2014/03/photog1.jpg",
+        "title": "Learn Photography",
+        "ratings": 5.0,
+        "enrolled": 3300,
+        "id": 787945435346767768,
+        "price": 1860
+    },
+    {
+        "img": "https://assets.telegraphindia.com/abped/2020/Sep/1600357803_cinematography.jpg",
+        "title": "CinematoGraphy Crash Course",
+        "ratings": 4.9,
+        "enrolled": 6500,
+        "id": 7879455353467768,
+        "price": 300
+    },
+    {
+        "img": "https://www.stridec.com/blog/wp-content/uploads/2021/07/8-Google-SEO-Tips-for-Page-One-Results.jpg",
+        "title": "SEO Crash Course",
+        "ratings": 5.0,
+        "enrolled": 500,
+        "id": 78794546745768,
+        "price": 540
     }
 ]

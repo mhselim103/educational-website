@@ -14,15 +14,13 @@ const Courses = (props) => {
                         <p>Enrolled : {enrolled}</p>
                         <h5>Price : ${price}</h5>
                     </div>
-                    <div className="d-flex justify-content-between align-items-center">
-                        <div>
-                            <Card.Title className="text-start"><h1>{title}</h1></Card.Title>
-                        </div>
-                        <div>
-                            <Button variant="primary">Enroll Now</Button>
-                        </div>
+                    <div>
+                        <Card.Title className="text-start"><h1>{title}</h1></Card.Title>
                     </div>
                 </Card.Body>
+                <Card.Footer>
+                    <Button variant="primary">Enroll Now</Button>
+                </Card.Footer>
             </Card>
         </Col>
     );
