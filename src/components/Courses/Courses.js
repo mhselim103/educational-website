@@ -3,7 +3,6 @@ import { Button, Card, Col } from 'react-bootstrap';
 
 const Courses = (props) => {
     const { img, title, ratings, enrolled, price } = props.course;
-    console.log(props.course);
     return (
         <Col>
             <Card className="h-100">
