@@ -5,7 +5,7 @@ import Menu from '../Menu/Menu';
 
 const Contact = () => {
     return (
-        <div className="container">
+        <div>
             <Menu></Menu>
             
             <div className="my-5 container">

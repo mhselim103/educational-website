@@ -24,7 +24,7 @@ const Menu = () => {
                 to="/courses"
                 activeStyle={navStyle}
               >
-                All Courses
+                Our Services
               </NavLink>
             <NavLink className="text-decoration-none me-3"
                 to="/about"

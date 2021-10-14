@@ -15,6 +15,9 @@ const AllCourses = () => {
             <Menu></Menu>
             <div className="container my-5">
                 <div>
+                    <p className="text-center">We Provide Online courses on various Sector. Such as Graphics Designing, Web development, Cinematography and Photography</p>
+                </div>
+                <div>
                     <h1 className="text-primary fw-bold">Our All Courses</h1>
                 </div>
                 <Row xs={1} md={3} className="g-4">
@@ -34,7 +37,7 @@ const AllCourses = () => {
                                 </Card.Body>
 
                                 <Card.Footer>
-                                    <Button variant="primary">Enroll Now</Button>
+                                    <Button  variant="primary">Enroll Now</Button>
                                 </Card.Footer>
                             </Card>
                         </Col>
